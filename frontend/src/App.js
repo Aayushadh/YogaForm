@@ -10,6 +10,7 @@ import ParticlesBg from "particles-bg";
 import { ButtonGroup, Button } from "react-bootstrap";
 function App({ history }) {
   return (
+    
     <div className="App"> 
       <ParticlesBg type="circle" bg={true} />
       <Button variant="dark" href="/">
